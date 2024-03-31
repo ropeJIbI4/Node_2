@@ -1,0 +1,19 @@
+{
+  "name": "pibonachi",
+  "version": "1.0.0",
+  "description": "Pi+Fibonachi",
+  "main": "pibonachi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ropeJIbI4/Node_2.git"
+  },
+  "author": "ropeJIbI4",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ropeJIbI4/Node_2/issues"
+  },
+  "homepage": "https://github.com/ropeJIbI4/Node_2#readme"
+}
